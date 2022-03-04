@@ -1,0 +1,19 @@
+Goals:
+
+1. Arrays
+	1.1. Number Array Declaration and reverse printing 
+		1.1.1. Sum, Largest, Smallest number in an array
+		1.1.2. Generate fibonacci series
+		1.1.3. Add two matrix
+	1.2. Sorting Array
+		1.2.1.
+	1.3. Searching
+		1.3.1. 
+	1.4. 
+2. Vectors/Lists
+3. Linked Lists
+4. Stacks
+5. Graphs
+6. Trees
+7. Heap
+8. Queues
